@@ -1,4 +1,4 @@
-[[002 - UNIVESP 🎓/Univesp]]
+[[Univesp]]
 [[Ingles Univesp]]
 #Univesp 
 
@@ -72,7 +72,7 @@ To the above list, we’d add:
 
 21. Predict
 
-22. Set a Reader Purpose
+22. Set a Reader's Purpose
 
 23. Text-connections (text-to-self, text-to-text, text-to-world)
 

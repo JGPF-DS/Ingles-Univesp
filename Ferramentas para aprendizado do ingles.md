@@ -41,7 +41,7 @@ A avaliação segue o mesmo modelo das Atividades para Avaliação, as questões
 
 DICAS / MATERIAL EXTRA PARA PRATICAR O CONTEÚDO DA DISCIPLINA:
 
-**Livro:**
+## **Livro:**
 
 English Grammar in Use | Raymond Murphy
 
@@ -49,24 +49,24 @@ Trata-se de uma gramática muito fácil de entender, com explicações e exercí
 
 **Websites:**
 
-Sites que contêm tanto explicações quanto exercícios para praticar:
+## Sites que contêm tanto explicações quanto exercícios para praticar:
 
 -   [BBC Learning English](https://www.bbc.co.uk/learningenglish/)
 -   [Cambridge Dictionary - Gramatica Britânica](https://dictionary.cambridge.org/pt/gramatica/gramatica-britanica/)
 -   [Info Escola](https://www.infoescola.com/ingles)
 -   [Perfect English Grammar](https://www.perfect-english-grammar.com/)
 
-5.1.1 Conectores: [Words of connection - Conectivos](https://www.sk.com.br/sk-conn-words-of-connection-conectivos-do-ingles.html)
+### 5.1.1 Conectores: [Words of connection - Conectivos](https://www.sk.com.br/sk-conn-words-of-connection-conectivos-do-ingles.html) 
 
-5.1.2 Question words:[Toda Matéria - Question Words](https://www.todamateria.com.br/question-words/)
+### 5.1.2 Question words:[Toda Matéria - Question Words](https://www.todamateria.com.br/question-words/)
 
-5.1.3 Palavras cognatas para leitura / inglês instrumental: [A Importância dos Cognatos para a Leitura em Inglês](https://www.youtube.com/watch?v=UBbpUEAq0Qk)
+### 5.1.3 Palavras cognatas para leitura / inglês instrumental: [A Importância dos Cognatos para a Leitura em Inglês](https://www.youtube.com/watch?v=UBbpUEAq0Qk)
 
-5.1.4 Falsos cognatos: [Falsos cognatos ou falsos amigos](https://www.sk.com.br/sk-falsos-cognatos-ou-falsos-amigos.html)
+### 5.1.4 Falsos cognatos: [Falsos cognatos ou falsos amigos](https://www.sk.com.br/sk-falsos-cognatos-ou-falsos-amigos.html)
 
-5.1.5 Leitura: [Commonlit](https://www.commonlit.org/)
+### 5.1.5 Leitura: [Commonlit](https://www.commonlit.org/)
 
-5.1.6 Listening:
+### 5.1.6 Listening:
 
 -   [Dicas para desenvolver o listening](https://www.estudarfora.org.br/dicas-desenvolver-listening/)
 -   [7 sites para treinar/melhorar seu listening](https://clubedoingles.com/7-sites-treinarmelhorar-listening/)

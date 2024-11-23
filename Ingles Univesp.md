@@ -1,4 +1,4 @@
-[[002 - UNIVESP 🎓/Univesp]]
+[[Univesp]]
 [[000 - Dashboard]]
 
 [[Uma abordagem constrativa do tempo verbal]]

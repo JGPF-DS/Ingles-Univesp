@@ -1,5 +1,5 @@
 
-[[002 - UNIVESP 🎓/Univesp]]
+[[Univesp]]
 [[Ingles Univesp]]
 
 

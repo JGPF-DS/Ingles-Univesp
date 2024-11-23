@@ -1,5 +1,5 @@
 [[Ingles Univesp]]
-[[002 - UNIVESP 🎓/Univesp]]
+[[Univesp]]
 
 **occur – examine – are – suggest – explore**
 RESPOSTA:

@@ -1,5 +1,5 @@
 [[Ingles Univesp]]
-[[002 - UNIVESP 🎓/Univesp]]
+[[Univesp]]
 
 # UMA ABORDAGEM CONTRASTIVA DO TEMPO VERBAL
 Beatriz Nunes de Oliveira LONGO[^1]

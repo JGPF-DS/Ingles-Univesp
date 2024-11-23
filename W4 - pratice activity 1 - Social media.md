@@ -1,5 +1,5 @@
 [[Ingles Univesp]]
-[[002 - UNIVESP 🎓/Univesp]]
+[[Univesp]]
 
 
 [The English We Speak - Social media influencer - BBC Sounds](https://www.bbc.co.uk/sounds/play/p07t9btx)

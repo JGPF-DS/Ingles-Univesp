@@ -1,5 +1,5 @@
 [[Ingles Univesp]]
-[[002 - UNIVESP 🎓/Univesp]]
+[[Univesp]]
 
 1) Corpus of contemporary American English
 https://www.english-corpora.org/coca/
